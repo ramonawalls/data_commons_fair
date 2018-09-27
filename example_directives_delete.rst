@@ -57,7 +57,7 @@ Then, as you have instructions, intersperse the sample data .. admonition
          If you don't see a desired species/genome `contact us <https://dnasubway.cyverse.org/feedback.html>`_ to have it added
 
     .. warning::
-     WWhen naming your samples and conditions, avoid spaces and special characters
+     QWhen naming your samples and conditions, avoid spaces and special characters
      (e.g. !#$%^&/, etc.). Also be sure to be consistent with spelling.
 
 Other admonitions
