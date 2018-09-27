@@ -6,18 +6,13 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Example Directives
+DELETE THIS PAGE BEFORE PUBLISHING
 ----------------------
 
 .. #### Comment: short description
 
-**DELETE THIS PAGE BEFORE PUBLISHING**
-
-
-Directives and other features
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Writing your documentation using sample data**
+Writing your documentation using sample data
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Where possible, you want write documentation instructions to be general enough
 for users can follow along with their own data. To help do this, you can use
