@@ -9,9 +9,15 @@
 STYLE TIPS - DELETE THIS PAGE BEFORE PUBLISHING
 --------------------------------------------------
 
+    .. tip::
+
+         Check the code (.rst) source to see how these examples are written
+         in restructured text. 
+
+
 .. #### Comment: short description
 
-Writing your documentation using sample data
+Many of the examples Writing your documentation using sample data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Where possible, you want write documentation instructions to be general enough
@@ -94,13 +100,13 @@ Better size
  |Right-size kitten|
 
 .. |Right-size kitten| image:: ./img/kitten_no_border.png
-    :width: 500
-    :height: 100
+    :width: 400
+    :height: 350
 
-Images should have a 2px black border
+Images should have a 1px black border
 
  |Right-size kitten w border|
 
 .. |Right-size kitten w border| image:: ./img/kitten_w_border.png
-    :width: 500
-    :height: 100
+    :width: 400
+    :height: 350
