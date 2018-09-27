@@ -41,3 +41,15 @@ To do this...
       infection of neural progenitor cells perturbs transcription in
       neurodevelopmental pathways. PLOS ONE 12(4):
       e0175744. `10.1371/journal.pone.0175744 <https://doi.org/10.1371/journal.pone.0175744>`_
+
+Then, as you have instructions, intersperse the sample data .. admonition
+
+
+    1. First, enter the cutoff value for your dataset
+
+
+        .. admonition:: Sample data
+
+      *"Zika infected hNPCs"* dataset:
+
+      Enter **30**
