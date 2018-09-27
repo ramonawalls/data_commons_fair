@@ -12,13 +12,13 @@ STYLE TIPS - DELETE THIS PAGE BEFORE PUBLISHING
     .. tip::
 
          Check the code (.rst) source to see how these examples are written
-         in restructured text. 
+         in restructured text.
 
 
 .. #### Comment: short description
 
 Many of the examples Writing your documentation using sample data
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Where possible, you want write documentation instructions to be general enough
 for users can follow along with their own data. To help do this, you can use
@@ -79,9 +79,41 @@ Buttons and keyboard combinations
 
 Where it adds clarity you can use this text to add buttons.
 
-  1. Click ::guilabel:`&Cancel` to continue
+  1. Click :guilabel:`&Cancel` to continue
 
-  2. Press ::guilabel:`&Control` + ::guilabel:`&P` to print your result
+  2. Press :guilabel:`&Control` + :guilabel:`&P` to print your result
+
+
+URLs/Links
+~~~~~~~~~~~~~~
+
+Have hyperlinks open in a new tab to avoid pushing the reader off the documentation
+page. Always use substitutions. Best practice is to define your substitutions in
+the **cyverse_rst_defined_substitutions.txt** file in this repo for easy future
+updating.
+
+
+
+Bad link ...
+
+`bad google <https://www.google.com/>`_
+
+
+Good link ...
+
+|google|
+
+.. |google| raw:: html
+
+   <a href="https://www.google.com/" target="blank">Google</a>
+
+Even better link
+
+|CyVerse User Portal|
+
+
+
+
 
 
 Images
