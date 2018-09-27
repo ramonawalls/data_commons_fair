@@ -77,7 +77,7 @@ common for our documentation.
 Buttons and keyboard combinations
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Where it adds clarity you can use this text to add buttons.
+Where it adds clarity you can use this text to add buttons:
 
   1. Click :guilabel:`&Cancel` to continue
 
@@ -85,14 +85,12 @@ Where it adds clarity you can use this text to add buttons.
 
 
 URLs/Links
-~~~~~~~~~~~~~~
+~~~~~~~~~~~
 
 Have hyperlinks open in a new tab to avoid pushing the reader off the documentation
 page. Always use substitutions. Best practice is to define your substitutions in
 the **cyverse_rst_defined_substitutions.txt** file in this repo for easy future
 updating.
-
-
 
 Bad link ...
 
@@ -107,27 +105,23 @@ Good link ...
 
    <a href="https://www.google.com/" target="blank">Google</a>
 
-Even better link
+Even better link (because it is defined in a separate file)
 
 |CyVerse User Portal|
 
 
-
-
-
-
 Images
-~~~~~~~~~~
+~~~~~~~
 
-Images should only be used when necessary
+Images should only be used when necessary.
 
-Choose an image size that works for your page
+Choose an image size that works for your page:
 
  |Too big kitten|
 
 .. |Too big kitten| image:: ./img/kitten_no_border.png
 
-Better size
+Better size:
 
  |Right-size kitten|
 
@@ -135,7 +129,7 @@ Better size
     :width: 400
     :height: 350
 
-Images should have a 1px black border
+Images should have a 1px black border:
 
  |Right-size kitten w border|
 
