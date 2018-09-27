@@ -85,13 +85,13 @@ Platform(s)
       - |Atmosphere Guide|
     * - BisQue
       - Web/Point-and-click and/or Command-line (API)
-      - |BisQue| <https://bisque.cyverse.org/client_service/>`_
-      - |BisQue Manual| <https://wiki.cyverse.org/wiki/display/BIS>`_
+      - |BisQue|
+      - |BisQue Manual|
       - |BisQue Guide| (None Available)
     * - DNA Subway
       - Web/Point-and-click
       - |DNA Subway|
-      - |DNA Subway Manual|(See Guide)
+      - |DNA Subway Manual| (See Guide)
       - |DNA Subway Guide|
     * - SciApps
       - Command-line (API)
@@ -102,7 +102,7 @@ Platform(s)
       - Command-line (API)
       - |Agave API|
       - |Agave Live Docs|
-      - |Agave Guide|(See Live Docs)
+      - |Agave Guide| (See Live Docs)
 ----
 
 **Fix or improve this documentation**
@@ -215,10 +215,10 @@ Platform(s)
 
    <a href="https://www.sciapps.org/" target="blank">SciApps</a>
 
-.. |ASciApps Manual| raw:: html
+.. |SciApps Manual| raw:: html
 
    <a href="https://cyverse-sciapps-guide.readthedocs-hosted.com/en/latest/index.html" target="blank">SciApps Manual</a>
 
-.. |ASciApps Guide| raw:: html
+.. |SciApps Guide| raw:: html
 
    <a href"https://cyverse-sciapps-guide.readthedocs-hosted.com/en/latest/index.html" target="blank">SciApps Guide</a>
