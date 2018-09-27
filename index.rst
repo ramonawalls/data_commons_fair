@@ -133,7 +133,7 @@ Platform(s)
 
    .. |Substitution| raw:: html # Place this anywhere in the text you want a hyperlink
 
-      <a href"REPLACE_THIS_WITH_URL" target="blank">Replace_with_text</a>
+      <a href="REPLACE_THIS_WITH_URL" target="blank">Replace_with_text</a>
 
 .. |CyVerse User Portal| raw:: html
 
@@ -145,79 +145,79 @@ Platform(s)
 
 .. |Data Store Manual| raw:: html
 
-   <a href"https://wiki.cyverse.org/wiki/display/DS/Data+Store+Table+of+Contents" target="blank">Data Store Manual</a>
+   <a href="https://wiki.cyverse.org/wiki/display/DS/Data+Store+Table+of+Contents" target="blank">Data Store Manual</a>
 
 .. |Data Store Guide| raw:: html
 
-   <a href"https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/" target="blank">Data Store Guide</a>
+   <a href="https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/" target="blank">Data Store Guide</a>
 
 .. |Discovery Environment| raw:: html
 
-   <a href"https://de.cyverse.org/de/" target="blank">Discovery Environment</a>
+   <a href="https://de.cyverse.org/de/" target="blank">Discovery Environment</a>
 
 .. |DE Manual| raw:: html
 
-   <a href"https://wiki.cyverse.org/wiki/display/DEmanual/Table+of+Contents" target="blank">DE Manual</a>
+   <a href="https://wiki.cyverse.org/wiki/display/DEmanual/Table+of+Contents" target="blank">DE Manual</a>
 
 .. |Discovery Environment Guide| raw:: html
 
-   <a href"http://learning.cyverse.org/projects/cyverse-discovery-environment-guide/" target="blank">Discovery Environment Guide</a>
+   <a href="http://learning.cyverse.org/projects/cyverse-discovery-environment-guide/" target="blank">Discovery Environment Guide</a>
 
 .. |Atmosphere| raw:: html
 
-   <a href"https://atmo.cyverse.org" target="blank">Atmosphere</a>
+   <a href="https://atmo.cyverse.org" target="blank">Atmosphere</a>
 
 .. |Atmosphere Manual| raw:: html
 
-   <a href"https://wiki.cyverse.org/wiki/display/atmman/Atmosphere+Manual+Table+of+Contents" target="blank">Atmosphere Manual</a>
+   <a href="https://wiki.cyverse.org/wiki/display/atmman/Atmosphere+Manual+Table+of+Contents" target="blank">Atmosphere Manual</a>
 
 .. |Atmosphere Guide| raw:: html
 
-   <a href"https://cyverse-atmosphere-guide.readthedocs-hosted.com/en/latest/" target="blank">Atmosphere Guide</a>
+   <a href="https://cyverse-atmosphere-guide.readthedocs-hosted.com/en/latest/" target="blank">Atmosphere Guide</a>
 
 .. |BisQue| raw:: html
 
-   <a href"https://bisque.cyverse.org/client_service/" target="blank">BisQue</a>
+   <a href="https://bisque.cyverse.org/client_service/" target="blank">BisQue</a>
 
 .. |BisQue Manual| raw:: html
 
-   <a href"https://wiki.cyverse.org/wiki/display/BIS" target="blank">BisQue Manual</a>
+   <a href="https://wiki.cyverse.org/wiki/display/BIS" target="blank">BisQue Manual</a>
 
 .. |BisQue Guide| raw:: html
 
-   <a href"http://learning.cyverse.org/en/latest/" target="blank">BisQue Guide</a>
+   <a href="http://learning.cyverse.org/en/latest/" target="blank">BisQue Guide</a>
 
 .. |DNA Subway| raw:: html
 
-   <a href"https://dnasubway.cyverse.org/" target="blank">DNA Subway</a>
+   <a href="https://dnasubway.cyverse.org/" target="blank">DNA Subway</a>
 
 .. |DNA Subway Manual| raw:: html
 
-   <a href"https://cyverse-dnasubway-guide.readthedocs-hosted.com/en/latest/" target="blank">DNA Subway Manual</a>
+   <a href="https://cyverse-dnasubway-guide.readthedocs-hosted.com/en/latest/" target="blank">DNA Subway Manual</a>
 
 .. |DNA Subway Guide| raw:: html
 
-   <a href"https://cyverse-dnasubway-guide.readthedocs-hosted.com/en/latest/" target="blank">DNA Subway Guide</a>
+   <a href="https://cyverse-dnasubway-guide.readthedocs-hosted.com/en/latest/" target="blank">DNA Subway Guide</a>
 
 .. |Agave API| raw:: html
 
-   <a href"https://agaveapi.co" target="blank">Agave API</a>
+   <a href="https://agaveapi.co" target="blank">Agave API</a>
 
 .. |Agave Live Docs| raw:: html
 
-   <a href"https://agaveapi.co" target="blank">Agave Live Docs</a>
+   <a href="https://agaveapi.co" target="blank">Agave Live Docs</a>
 
 .. |Agave Guide| raw:: html
 
-   <a href"http://learning.cyverse.org/en/latest/" target="blank">Agave Guide</a>
+   <a href="http://learning.cyverse.org/en/latest/" target="blank">Agave Guide</a>
 
 .. |SciApps| raw:: html
 
-   <a href"https://www.sciapps.org/" target="blank">SciApps</a>
+   <a href="https://www.sciapps.org/" target="blank">SciApps</a>
 
 .. |ASciApps Manual| raw:: html
 
-   <a href"https://cyverse-sciapps-guide.readthedocs-hosted.com/en/latest/index.html" target="blank">ASciApps Manual</a>
+   <a href="https://cyverse-sciapps-guide.readthedocs-hosted.com/en/latest/index.html" target="blank">ASciApps Manual</a>
 
 .. |ASciApps Guide| raw:: html
 
