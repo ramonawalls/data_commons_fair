@@ -6,68 +6,43 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Section Title
--------------
+Example Directives
+----------------------
 
 .. #### Comment: short description
 
-**Some things to remember about the platoform**
+**DELETE THIS PAGE BEFORE PUBLISHING**
 
 
-- reminder one
-- reminder two
+Directives and other features
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+**Writing your documentation using sample data**
 
-----
+Where possible, you want write documentation instructions to be general enough
+for users can follow along with their own data. To help do this, you can use
+the **sample data admonition** to intersperse sample data-specific instructions
+into your generic instructions.
 
-*Descriptive title - refrence platform/tool name for searchability*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+To do this...
 
-  1.
+  1. Start your documentation with a description and where possible, a citation
+     of the data:
 
-  2.
+     .. admonition:: Sample data
 
-..
-	#### Comment: Suggested style guide:
-	1. Steps begin with a verb or preposition: Click on... OR Under the "Results Menu"
-	2. Locations of files listed parenthetically, separated by carets, ultimate object in bold
-	(Username > analyses > *output*)
-	3. Buttons and/or keywords in bold: Click on **Apps** OR select **Arabidopsis**
-	4. Primary menu titles in double quotes: Under "Input" choose...
-	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
-	####
+      **How to use provided sample data**
 
-----
+      In this guide, we will use an RNA-Seq dataset (*"Zika infected hNPCs"*).
+      This experiment compared human neuroprogenetor cells (hNPCs)
+      infected with the Zika virus to non-infected hNPCs. You can read more
+      about the experimental conditions and methods
+      `here <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175744>`_.
+      Where appropriate, a note (in this orange colored background) in the
+      instructions will indicate which options to select to make use of this
+      provided dataset.
 
-*Summary*
-~~~~~~~~~
-
-..
-    Summary
-
-**Next Steps:**
-
-- Next step one
-- Next step two
-
-More help and additional information
-`````````````````````````````````````
-
-..
-    Short description and links to any reading materials
-
-Search for an answer:
-    `CyVerse Learning Center <http://learning.cyverse.org>`_ or
-    `CyVerse Wiki <https://wiki.cyverse.org>`_
-
-Post your question to the user forum:
-    `Ask CyVerse <http://ask.iplantcollaborative.org/questions>`_
-
-----
-
-**Fix or improve this documentation:**
-
-- On Github: `Repo link <FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_>`_
-- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
-
-----
+      **Sample data citation**: Yi L, Pimentel H, Pachter L (2017) Zika
+      infection of neural progenitor cells perturbs transcription in
+      neurodevelopmental pathways. PLOS ONE 12(4):
+      e0175744. `10.1371/journal.pone.0175744 <https://doi.org/10.1371/journal.pone.0175744>`_
