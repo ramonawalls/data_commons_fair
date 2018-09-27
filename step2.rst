@@ -1,4 +1,4 @@
-reference.. include:: cyverse_rst_defined_substitutions.txt
+.. include:: cyverse_rst_defined_substitutions.txt
 
 |CyVerse logo|_
 
