@@ -75,4 +75,32 @@ Where it adds clarity you can use this text to add buttons.
 
   1. Click ::guilabel:`&Cancel` to continue
 
-  2. Press ::guilabel:`&Control` + ::guilabel:`&P` to print your result 
+  2. Press ::guilabel:`&Control` + ::guilabel:`&P` to print your result
+
+
+Images
+~~~~~~~~~~
+
+Images should only be used when necessary
+
+Choose an image size that works for your page
+
+ |Too big kitten|
+
+.. |Too big kitten| image:: ./img/kitten_no_border.png
+
+Better size
+
+ |Right-size kitten|
+
+.. |Right-size kitten| image:: ./img/kitten_no_border.png
+    :width: 500
+    :height: 100
+
+Images should have a 2px black border
+
+ |Right-size kitten w border|
+
+.. |Right-size kitten w border| image:: ./img/kitten_w_border.png
+    :width: 500
+    :height: 100
