@@ -19,10 +19,8 @@ for users can follow along with their own data. To help do this, you can use
 the **sample data admonition** to intersperse sample data-specific instructions
 into your generic instructions.
 
-To do this...
-
-  1. Start your documentation with a description and where possible, a citation
-     of the data:
+To do this, start your documentation with a description and where possible,
+a citation of the data:
 
      .. admonition:: Sample data
 
