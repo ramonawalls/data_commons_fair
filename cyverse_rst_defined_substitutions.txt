@@ -86,7 +86,7 @@
 
 .. |SciApps Guide| raw:: html
 
-   <a href"https://cyverse-sciapps-guide.readthedocs-hosted.com/en/latest/index.html" target="blank">SciApps Guide</a>
+   <a href="https://cyverse-sciapps-guide.readthedocs-hosted.com/en/latest/index.html" target="blank">SciApps Guide</a>
 
 
 .. Comment: images
