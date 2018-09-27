@@ -24,6 +24,7 @@ Goal
 	Tutorial home <self>
 	First Step <step1.rst>
 	Last Step <step2.rst>
+	Delete this page <example_directives_delete.rst>
 
 ..
 	#### Comment:This tutorial can have multiple pages. The table of contents assumes
@@ -117,6 +118,20 @@ Platform(s)
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`__
 
+.. Comment: Place Images Below This Line
+   use :width: to give a desired width for your image
+   use :height: to give a desired height for your image
+   replace the image name/location and URL if hyperlinked
+
+
+ .. |Clickable hyperlinked image| image:: ./img/IMAGENAME.png
+    :width: 500
+    :height: 100
+ .. _CyVerse logo: http://learning.cyverse.org/
+
+ .. |Static image| image:: ./img/IMAGENAME.png
+    :width: 25
+    :height: 25
 
 
 
