@@ -1,4 +1,4 @@
-.. include:: cyverse_rst_defined_substitutions.txt
+reference.. include:: cyverse_rst_defined_substitutions.txt
 
 |CyVerse logo|_
 
@@ -11,7 +11,7 @@ Section Title
 
 .. #### Comment: short description
 
-**Some things to remember about the platoform**
+**Some things to remember about the platform**
 
 
 - reminder one
@@ -20,7 +20,7 @@ Section Title
 
 ----
 
-*Descriptive title - refrence platform/tool name for searchability*
+*Descriptive title - reference platform/tool name for searchability*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   1.
