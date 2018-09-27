@@ -53,12 +53,26 @@ Then, as you have instructions, intersperse the sample data .. admonition
 
     2. Continue with next step...
 
+
+Other admonitions
+~~~~~~~~~~~~~~~~~~~
+
+There are several admonitions you can use, but tip and warning are the most
+common for our documentation.
+
     .. tip::
          If you don't see a desired species/genome `contact us <https://dnasubway.cyverse.org/feedback.html>`_ to have it added
 
     .. warning::
-     QWhen naming your samples and conditions, avoid spaces and special characters
+     When naming your samples and conditions, avoid spaces and special characters
      (e.g. !#$%^&/, etc.). Also be sure to be consistent with spelling.
 
-Other admonitions
-~~~~~~~~~~~~~~~~~~~
+
+Buttons and keyboard combinations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Where it adds clarity you can use this text to add buttons.
+
+  1. Click ::guilabel:`&Cancel` to continue
+
+  2. Press ::guilabel:`&Control` + ::guilabel:`&P` to print your result 
