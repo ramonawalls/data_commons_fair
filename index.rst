@@ -50,7 +50,7 @@ Downloads, access, and services
       - Link/Download
     * - CyVerse account
       - You will need a CyVerse account to complete this exercise
-      - |CyVerse User Portal| 
+      - |CyVerse User Portal|
 
 Platform(s)
 ~~~~~~~~~~~
@@ -217,7 +217,7 @@ Platform(s)
 
 .. |ASciApps Manual| raw:: html
 
-   <a href="https://cyverse-sciapps-guide.readthedocs-hosted.com/en/latest/index.html" target="blank">ASciApps Manual</a>
+   <a href="https://cyverse-sciapps-guide.readthedocs-hosted.com/en/latest/index.html" target="blank">SciApps Manual</a>
 
 .. |ASciApps Guide| raw:: html
 
