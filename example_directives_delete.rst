@@ -51,7 +51,7 @@ Then, as you have instructions, intersperse the sample data .. admonition
 
           Enter **30**
 
-    2. Continue with next step1
+    2. Continue with next step...
 
 
 
