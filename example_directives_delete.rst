@@ -6,8 +6,8 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-DELETE THIS PAGE BEFORE PUBLISHING
-----------------------
+STYLE TIPS - DELETE THIS PAGE BEFORE PUBLISHING
+--------------------------------------------------
 
 .. #### Comment: short description
 
@@ -47,9 +47,8 @@ Then, as you have instructions, intersperse the sample data .. admonition
 
     1. First, enter the cutoff value for your dataset
 
-
         .. admonition:: Sample data
 
-      *"Zika infected hNPCs"* dataset:
+          *"Zika infected hNPCs"* dataset:
 
-      Enter **30**
+          Enter **30**
