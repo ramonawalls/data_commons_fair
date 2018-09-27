@@ -50,7 +50,7 @@ Downloads, access, and services
       - Link/Download
     * - CyVerse account
       - You will need a CyVerse account to complete this exercise
-      - |CyVerse User Portal| <https://user.cyverse.org/>`_
+      - |CyVerse User Portal| 
 
 Platform(s)
 ~~~~~~~~~~~
