@@ -29,6 +29,10 @@ Each CyVerse Tutorial, Guide, or Quickstart has its own [ReadtheDocs](https://re
 |step1.rst|If documentation has more than one page, use this for the second through second-to-last page; copy as needed|copy as needed for additional pages 1..(n-1)|
 |step2.rst|If documentation has more than one page, this should always be the **last** page||
 |/img (folder)|Place images for your tutorials here|CyVerse logos and other useful images are already here|
+|example_directives_delete.rst|Example page with code for common restructured text objects||
+|cyverse_rst_defined_substitutions.txt|restructured text substitutions for common URLs and images||
+|conf.py|Place to add tutorial and author name;versioning||
+|README.md|These instructions|**Delete these** before publishing your documentation|
 |/slides (folder)|Place slides associated with your tutorial here|version controlled files preferred, PPT acceptable|
 |/misc (folder)|miscellaneous needed for building documentation| |
 |License.md|License|this license file applies to all materials created by CyVerse for this documentation|
