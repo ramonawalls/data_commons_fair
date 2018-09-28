@@ -112,6 +112,7 @@ Platform(s)
 
 - On Github: |Github Repo Link|
 - Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+- Live chat/help: Click on the |intercom| on the bottom-right of the page for questions on documentation
 
 ----
 
