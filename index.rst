@@ -8,13 +8,12 @@
 **Making your data FAIR with CyVerse**
 ==============
 
-.. #### Comment: If the platform has an ICON place it here
+|DataCommons_NavyBlue.png|_
 
 Goal
 ----
 
-.. #### Comment: If the platform has an ICON place it here
-.. #### Comment: Sort description of goal
+.. To introduce the FAIR Data Principles to CyVerse users and provide links to CyVerse resources for making data FAIR.
 
 ----
 
