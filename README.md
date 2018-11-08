@@ -1,8 +1,7 @@
-# Template CyVerse Guide Repo
+# Repo for "Making your data FAIR with the CyVerse Data Commons".
+A focus forum webinar presented October 30, 2018
+(link to wiki page_
 
-You should import this repo to build CyVerse Platform/Service Guides
-
-**See what this template looks like [rendered on ReadTheDocs](https://cyverse-cyverse-guide-template.readthedocs-hosted.com/en/latest/)**
 
 ## How CyVerse Learning Center documentation is built
 
