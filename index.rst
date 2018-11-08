@@ -5,7 +5,7 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-**GUIDE NAME**
+**Making your data FAIR with CyVerse**
 ==============
 
 .. #### Comment: If the platform has an ICON place it here
@@ -40,7 +40,7 @@ Prerequisites
 Downloads, access, and services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*In order to complete this tutorial you will need access to the following services/software*
+*In order to use the features described in this guide, you will need access to the following services/software*
 
 ..
 	#### comment: delete any row not needed in this table ####
@@ -58,7 +58,7 @@ Downloads, access, and services
 Platform(s)
 ~~~~~~~~~~~
 
-*We will use the following CyVerse platform(s):*
+*We will use the following CyVerse platform(s) for different functions:*
 
  ..
    #### comment: delete any row not needed in this table ####
@@ -91,21 +91,6 @@ Platform(s)
       - |BisQue|
       - |BisQue Manual|
       - (See Manual)
-    * - DNA Subway
-      - Web/Point-and-click
-      - |DNA Subway|
-      - (See Guide)
-      - |DNA Subway Guide|
-    * - SciApps
-      - Command-line (API)
-      - |SciApps|
-      - (See Guide)
-      - |SciApps Guide|
-    * - Agave API
-      - Command-line (API)
-      - |Agave API|
-      - |Agave Live Docs|
-      - (See Live Docs)
 ----
 
 **Fix or improve this documentation**
