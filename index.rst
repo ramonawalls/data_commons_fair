@@ -6,7 +6,7 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 **Making your data FAIR with CyVerse**
-==============
+=====================
 
 |DataCommons_NavyBlue.png|_
 
@@ -21,9 +21,9 @@ Goal
 	:maxdepth: 2
 
 	Tutorial home <self>
-	First Step <step1.rst>
-	Last Step <step2.rst>
-	Delete this example guide page <example_directives_delete.rst>
+	Best Practice <practices.rst>
+	CyVerse Tools for Data Management <tools.rst>
+	Making Data Public with CyVerse <publish.rst>
 
 ..
 	#### Comment:This tutorial can have multiple pages. The table of contents assumes
@@ -80,16 +80,6 @@ Platform(s)
       - |Discovery Environment|
       - |DE Manual|
       - |Discovery Environment Guide|
-    * - Atmosphere
-      - Command line (ssh) and/or Desktop (VNC)
-      - |Atmosphere|
-      - |Atmosphere Manual|
-      - |Atmosphere Guide|
-    * - BisQue
-      - Web/Point-and-click and/or Command-line (API)
-      - |BisQue|
-      - |BisQue Manual|
-      - (See Manual)
 ----
 
 **Fix or improve this documentation**
