@@ -99,6 +99,10 @@
 .. |CyVerse Wiki| raw:: html
 
    <a href="https://wiki.cyverse.org" target="blank">CyVerse Wiki</a>
+   
+.. |Github Repo Link| raw:: html
+    
+    <a href="https://github.com/ramonawalls/data_commons_fair" target="blank">Github Repo Link</a>
 
 
 .. Comment: images
