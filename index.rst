@@ -51,7 +51,7 @@ Downloads, access, and services
       - Preparation/Notes
       - Link/Download
     * - CyVerse account
-      - You will need a CyVerse account to complete this exercise
+      - You will need a CyVerse account
       - |CyVerse User Portal|
 
 Platform(s)
